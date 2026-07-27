@@ -38,7 +38,7 @@ vcp-2: input statement, float and int type conversion functions
 #### Learning Activities
 
 1) reading and running Python code
-2) explain the purpose in a short and specific written statement.
+2) explain the purpose in a short and specific written statement
 3) write a short and specific programming task, that yields the given Python code
 
 [tutorialspoint.com: Assignments/Calculations](https://www.tutorialspoint.com/python/python_assignment_operators.htm)  
