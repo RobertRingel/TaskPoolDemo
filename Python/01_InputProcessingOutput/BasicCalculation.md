@@ -4,7 +4,7 @@ Topic: variables, calculations, printing
 
 Write a Python program for a basic calculation of your own interest! Use the type-function to show the data types of the variables used in your code.
 
-Discuss your program with another student. Explain your programms to each other.
+Discuss your program with another student. Explain your programs to each other.
 
 ---------------------------------------
 
