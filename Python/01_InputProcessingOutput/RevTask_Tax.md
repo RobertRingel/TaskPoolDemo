@@ -22,7 +22,7 @@ The program is used to calculate the value added tax, that is included in a give
 
 *Programming task*  
 Write a Python program to calculate the value added tax, that is included in a given product price.
-The user shall enter the product price and the programm shall print the included tax. The VAT is assumed to be 19%.
+The user shall enter the product price and the program shall print the included tax. The VAT is assumed to be 19%.
 
 ---------------------------------------
 
