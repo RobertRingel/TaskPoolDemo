@@ -39,7 +39,7 @@ vcp-2: data types and type function
 ##### Learning Activities
 
 1) select a basic calculation equation
-2) know the input parameters - set sample value for them
+2) know the input parameters - set sample values for them
 3) implement Python code for the calculation including result print-out
 4) run the Python code and check the result
 5) explain the Python code to another student
