@@ -10,13 +10,13 @@ print("***** Basic data types - an overview *****")
 count = 120
 print("count:", count, " - the data type is", type(count))
       
-factor = ...      # <<<< add a float-value
+factor = ...      # TODO: add a float-value
 print("factor:", factor, " - the data type is", type(factor))      
 
-logic = ...       # <<<<< add a boolean value
+logic = ...       # TODO: add a boolean value
 print("logic:", logic, " - the data type is", type(logic))
 
-name = ...        # <<<<< add your own name
+name = ...        # TODO: add your own name
 print("name:", name, " - the data type is", type(name))
 ```
 
@@ -30,13 +30,13 @@ print("***** Basic data types - an overview *****")
 count = 120
 print("count:", count, " - the data type is", type(count))
       
-factor = 4.32      # <<<< add a float-value
+factor = 4.32      # TODO: add a float-value
 print("factor:", factor, " - the data type is", type(factor))      
 
-logic = False      # <<<<< add a boolean value
+logic = False      # TODO: add a boolean value
 print("logic:", logic, " - the data type is", type(logic))
 
-name = 'Bob'       # <<<<< add your own name
+name = 'Bob'       # TODO: add your own name
 print("name:", name, " - the data type is", type(name))
 ```
 
