@@ -3,9 +3,9 @@ Topic: variables, calculations, printing
 ## Learning Task: Your own calculation program
 
 Write a basic calculation program, that is able to process a user input for a numeric calculation including a result print.
-Do not forget to add any commentes to your code.
+Do not forget to add any comments to your code.
 
-Implement the program, test it and explain it to another student.
+Implement the program, test it, and explain it to another student.
 
 ``` python
 
@@ -33,9 +33,9 @@ vcp-2: input statement, float and int type conversion functions
 
 #### Learning Activities
 
-1) thinking of potential useful calculations
+1) thinking of potentially useful calculations
 2) writing and running Python code
-3) wrting code comments
+3) writing code comments
 4) explaining Python code to other people
 
 #### Supporting information
