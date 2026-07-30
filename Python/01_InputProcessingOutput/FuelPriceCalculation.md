@@ -14,7 +14,7 @@ dist = 35         # distance [km]
 fuel_cons = 4.3   # fuel consumption [l/100km]
 price = 1.56      # fuel price [EUR]
 
-fuel_cost = 0.01*dist * fuel_cons * price
+fuel_cost = (dist / 100) * fuel_consumption * price
 
 print('The fuel cost for this trip is:', fuel_cost)
 ```
@@ -28,7 +28,7 @@ dist = int(input('driven distance [km]:'))
 fuel_cons = float(input('avg. fuel consumption [l/100km]:'))
 price = float(input('fuel price [EUR/l]:'))
 
-fuel_cost = 0.01*dist * fuel_cons * price
+fuel_cost = (dist / 100) * fuel_consumption * price
 
 print('The fuel cost for this trip is:', fuel_cost)
 ```
