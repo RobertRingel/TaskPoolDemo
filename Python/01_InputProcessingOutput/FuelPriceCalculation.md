@@ -48,7 +48,7 @@ vcp-2: type conversion for numeric input
 
 1) read and run the Python code
 2) obtain an understanding of the code
-3) extent the code by input-statements and the propper type-conversion
+3) extent the code by input-statements and the proper type-conversion
 4) delete the lines with the initial variable settings
 5) run and test the extended program
 
