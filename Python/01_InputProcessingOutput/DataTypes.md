@@ -64,7 +64,6 @@ Matthes, E. (2019). Python crash course a hands-on, project-based introduction t
 Chapter 2, pages 15-32
 
 [www.python-kurs.eu: Variablen](https://www.python-kurs.eu/python3_variablen.php)  
-
 Theis, T. (2017). Einstieg in Python. In Rheinwerk Computing (5., aktualisierte Auflage). Rheinwerk Verlag GmbH.:
 Kapitel 2, Seiten 23-27
 
