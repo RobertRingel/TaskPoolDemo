@@ -1,6 +1,6 @@
 Topic: variables, calculations, printing
 
-## Learning Task: Distance between GPS co-ordniates
+## Learning Task: Distance between GPS coordniates
 
 Implement a program to calculate the distance between two GPS points! It is assumed that the points distance is relatively close (some kilometers) and that they are in the same earth quadrant.
 
@@ -53,10 +53,10 @@ vcp-2: data types, type casting functions
 
 1) read the task and discuss the problem 
 2) note the equation of the theorem of Pythagoras
-3) adopt the theorem of Pythagoras to the earth grid of your region
+3) adapt the theorem of Pythagoras to the earth grid of your region
 4) write appropriate Python code
 5) test the Python program using known co-ordinates and distances
-6) speek about your code with another student - add comments to the code
+6) speak about your code with another student - add comments to the code
 
 #### Supporting information
 [tutorialspoint.com: Variables](https://www.tutorialspoint.com/python/python_data_types.htm)  
