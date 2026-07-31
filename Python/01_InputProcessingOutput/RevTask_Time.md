@@ -2,7 +2,7 @@ Topic: variables, calculations, printing
 
 ## Learning Task: What is the purpose of the code?
 
-Read, analyse and run the given Python program. What is it's purpose?  
+Read, analyse and run the given Python program. What is its purpose?  
 Write the text for a related programming task.
 
 ``` python
@@ -19,7 +19,7 @@ print('Total duration time (hours:minutes:seconds):',hh,':',mm,':',ss)
 ### Solution
 
 *Purpose of the program:*  
-The program is used to calculate the total duration time for the number of seconds given by user input.
+The program converts a total number of seconds entered by the user into hours, minutes, and seconds.
 
 *Programming task*  
 Write a Python program to calculate the total duration time for the number of seconds given by user input.
