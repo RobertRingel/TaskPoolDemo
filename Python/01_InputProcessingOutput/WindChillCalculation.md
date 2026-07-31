@@ -8,7 +8,7 @@ Read the code and run the code.
 Implement a similar program to be used in U.S. based on temperature input in degree Fahrenheit and windspeed in miles/hr. Test the new program!  
 
 The related equation is defined as:  
-$wc = 35.74+0.6215\cdot T-35.75\cdot v^{0.16}+0.4275\cdot v^{016}$
+$wc = 35.74+0.6215\cdot T-35.75\cdot v^{0.16}+0.4275\cdot v^{0.16}$
 
 A temperature of 22° Fahrenheit and a wind speed of 10 mi/hr should give a wind chill of 11 °Fahrenheit.
 
