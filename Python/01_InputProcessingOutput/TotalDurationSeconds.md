@@ -33,7 +33,7 @@ vcp-2: input statement, int-type-conversion function
 #### Learning Activities
 
 1) understand the task
-2) decide for the propper calculation equiation
+2) decide for the proper calculation equation
 3) implement Python code for the calculation including result print-out
 4) run the Python code and check the result
 
