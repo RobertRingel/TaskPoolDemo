@@ -5,24 +5,7 @@ Topic: variables, calculations, printing
 The following program calculates the Wind-Chill-Factor for the metric unit system.  
 Read the code and run the code.  
 
-Implement a similar program to be used in U.S. based on temperature input in degree Fahrenheit and windspeed in miles/hr. Test the new program!  
-
-The related equation is defined as:  
-$wc = 35.74+0.6215\cdot T-35.75\cdot v^{0.16}+0.4275\cdot v^{0.16}$
-
-A temperature of 22° Fahrenheit and a wind speed of 10 mi/hr should give a wind chill of 11 °Fahrenheit.
-
-``` python
-# wind chill calculation The markdown document below is used to document a learning task as part of a beginners class in Python programming. Please review the task documentation:  
-
-Topic: variables, calculations, printing
-
-## Learning Task: Wind-Chill-Factor
-
-The following program calculates the Wind-Chill-Factor for the metric unit system.  
-Read the code and run the code.  
-
-Implement a similar program to be used in U.S. based on temperature input in degree Fahrenheit and windspeed in miles/hr. Test the new program!  
+Implement a similar program to be used in U.S. based on temperature input in degree Fahrenheit and wind speed in miles/hr. Test the new program!  
 
 The related equation is defined as:  
 $wc = 35.74+0.6215\cdot T-35.75\cdot v^{0.16}+0.4275\cdot v^{0.16}$
@@ -43,7 +26,7 @@ EXP = 0.16
 temp_c = float(input('Air temperature [°C]:'))
 wind_kmh = float(input('Wind speed [km/h]:'))
 
-wc = OFFSET + F1*temp + F2*wind**EXP + F3*temp*wind**EXP
+wc = OFFSET + F1*temp_c + F2*wind_kmh**EXP + F3*temp_c*wind_kmh**EXP
 
 print('Wind chill [°C]:', wc)
 ```
@@ -56,7 +39,7 @@ The program calculates the wind chill for a given temperature in degree Fahrenhe
 
 ``` python
 # wind chill calculation 
-# for temperature in degree Fahrenheits and wind speed in miles per hour
+# for temperature in degree Fahrenheit and wind speed in miles per hour
 
 # calculation constants
 OFFSET = 35.74
