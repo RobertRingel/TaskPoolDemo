@@ -1,6 +1,6 @@
 Topic: variables, calculations, printing
 
-## Learning Task: Distance between GPS coordniates
+## Learning Task: Distance between GPS coordinates
 
 Implement a program to calculate the distance between two GPS points! It is assumed that the points distance is relatively close (some kilometers) and that they are in the same earth quadrant.
 
